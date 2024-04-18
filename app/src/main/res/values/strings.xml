@@ -1,0 +1,431 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="age">Select an item</string>
+    <string name="explane_levela">In this level we will focus in simple meaning and simple grammer \n
+
+		Upload the book then start learn with Ayyash Tutorial \n
+		Do not forget to get our instagram page to see all videos and to any contact
+	</string>
+	<string name="explane_levelb">In this level we will focus in meduim meaning and meduim grammer ,and read book that for meduim\n\n
+	Upload the book then start learn with Ayyash Tutorial \n
+		Do not forget to get our instagram page to see all videos and to any contact</string>
+	<string name="explane_levelc">In this level we will focus in hard meaning and hard grammer ,and read book that for meduim
+		\nIn this level we will make you reach the highest level in english
+	\n\n
+	Upload the book then start learn with Ayyash Tutorial \n
+		Do not forget to get our instagram page to see all videos and to any contact</string>
+	<string name="intrudction_a">
+		Here are some individual words that are useful for beginners:
+	</string>
+	<string name="intrudction_b">
+Here are some vocabulary words for a medium-level learner:
+	</string>
+	<string name="intrudction_c">
+Here are some vocabulary words for an advanced learner:
+	</string>
+
+	<string name="meaning_level_a">1.	Hello - مرحباً\n
+	2.	Goodbye - وداعاً\n
+	3.	Thank you - شكراً\n
+	4.	Please - من فضلك\n
+	5.	Yes - نعم\n
+	6.	No - لا\n
+	7.	Sorry - آسف\n
+	8.	Excuse me - عذراً\n
+	9.	Name - اسم\n
+	10.	Age - عمر\n
+	11.	Where - أين\n
+	12.	What - ماذا\n
+	13.	How - كيف\n
+	14.	Why - لماذا\n
+	15.	When - متى\n
+	16.	Who - من\n
+	17.	Where - أين\n
+	18.	How much - كم\n
+	19.	Food - طعام\n
+	20.	Drink - شراب\n
+	21.	House - منزل\n
+	22.	School - مدرسة\n
+	23.	Book - كتاب\n
+	24.	Pen - قلم\n
+	25.	Friend - صديق\n
+	26.	Family - عائلة\n
+	27.	Cat - قطة\n
+	28.	Dog - كلب\n
+	29.	Sun - شمس\n
+	30.	Moon - قمر</string>
+	<string name="meaning_level_b">1.	Ambitious - طموح \n
+	2.	Accomplishment - إنجاز\n
+	3.	Diligent - مجتهد\n
+	4.	Efficient - فعّال\n
+	5.	Initiative - مبادرة\n
+	6.	Resourceful - متمكن\n
+	7.	Innovative - مبتكر\n
+	8.	Versatile - متعدد الاستعمالات\n
+	9.	Perseverance - مثابرة\n
+	10.	Resilient - متماسك\n
+	11.	Adaptability - قابلية التكيف\n
+	12.	Consistent - متسق\n
+	13.	Autonomous - مستقل\n
+	14.	Collaborative - تعاوني\n
+	15.	Punctual - دقيق في المواعيد\n
+	16.	Creative - مبدع\n
+	17.	Critical thinking - التفكير النقدي\n
+	18.	Analytical - تحليلي\n
+	19.	Problem-solving - حل المشكلات\n
+	20.	Decision-making - اتخاذ القرارات\n
+	21.	Leadership - قيادة\n
+	22.	Teamwork - العمل الجماعي\n
+	23.	Communication skills - مهارات الاتصال\n
+	24.	Negotiation - التفاوض\n
+	25.	Time management - إدارة الوقت\n
+	26.	Stress management - إدارة الضغوط\n
+	27.	Adaptation - التكيف\n
+	28.	Self-discipline - انضباط الذات\n
+	29.	Feedback - ردود الفعل\n
+	30.	Improvement - تحسين</string>
+	<string name="meaning_level_c">
+		1.	Sophisticated - متطور\n
+	2.	Proficient - ماهر\n
+	3.	Astute - ذكي\n
+	4.	Erudite - عالم\n
+	5.	Sagacious - حكيم\n
+	6.	Exemplary - مثالي\n
+	7.	Pragmatic - عملي\n
+	8.	Discerning - فطن\n
+	9.	Articulate - بليغ\n
+	10.	Cogent - مقنع\n
+	11.	Perspicacious - فطن\n
+	12.	Ingenious - مبدع\n
+	13.	Exquisite - رائع\n
+	14.	Profound - عميق\n
+	15.	Astounding - مذهل\n
+	16.	Intricate - معقد\n
+	17.	Persuasive - مقنع\n
+	18.	Magnificent - رائع\n
+	19.	Unparalleled - لا مثيل له\n
+	20.	Unprecedented - غير مسبوق\n
+	21.	Exemplar - قدوة\n
+	22.	Intuitive - بديهي\n
+	23.	Incisive - حاد البصيرة\n
+	24.	Discursive - متطاول\n
+	25.	Prolific - متجدد\n
+	26.	Inquisitive - فضولي\n
+	27.	Esoteric - علمي\n
+	28.	Pinnacle - قمة\n
+	29.	Enigmatic - غامض\n
+	30.	Prodigious - عظيم\n
+	</string>
+	<string name="grammer_level_a">Here are some examples of basic pronouns.\n
+		1.	Subject Pronouns (ضمائر الفاعل):\n
+		•	I (أنا)\n
+		•	You (أنت)\n
+		•	He (هو)\n
+		•	She (هي)\n
+		•	It (هو/هي للأشياء والحيوانات)\n
+		•	We (نحن)\n
+		•	They (هم)\n
+		2.	Object Pronouns (ضمائر المفعول به):\n
+		•	Me (لي)\n
+		•	You (لك)\n
+		•	Him (له)\n
+		•	Her (لها)\n
+		•	It (له/لها للأشياء والحيوانات)\n
+		•	Us (لنا)\n
+		•	Them (لهم/لهن)\n
+		3.	Possessive Pronouns (ضمائر الملكية):\n
+		•	My (لي)\n
+		•	Your (لك)\n
+		•	His (له)\n
+		•	Her (لها)\n
+		•	Its (له/لها للأشياء والحيوانات)\n
+		•	Our (لنا)\n
+		•	Their (لهم/لهن)\n
+		4.	Reflexive Pronouns (ضمائر التعريف):\n
+		•	Myself (نفسي)\n
+		•	Yourself (نفسك)\n
+		•	Himself (نفسه)\n
+		•	Herself (نفسها)\n
+		•	Itself (نفسه/نفسها للأشياء والحيوانات)\n
+		•	Ourselves (أنفسنا)\n
+		•	Themselves (أنفسهم/أنفسهن)\n\n
+		The present perfect tense is often used in the following situations:\n\n
+
+	1.	Actions or events that happened at an unspecified time in the past: This means the exact time is not mentioned or not important. For example:\n
+	•	“She has visited Paris.” (We do not know when she visited Paris.)\n
+	•	“They have eaten sushi before.” (We do not know when they ate sushi.)\n
+	2.	Actions or events that started in the past and continue into the present: This indicates that the action began in the past and is still relevant now. For example:\n
+	•	“I have lived in this city for five years.” (I moved here five years ago, and I still live here.)\n
+	•	“He has worked at the company since 2010.” (He started working there in 2010, and he still works there.)\n
+	3.	Actions or events that have just occurred: It is often used with time expressions like “just,” “already,” or “recently” to indicate that the action happened very recently. For example:\n
+	•	“She has just finished her presentation.”\n
+	•	“I have already completed my chores.”\n
+
+The present perfect tense is formed by conjugating the auxiliary verb “to have” (have or has) and adding the past participle of the main verb. Here are the forms:\n
+\n\n
+	•	Affirmative:\n
+	•	I/You/We/They have + past participle\n
+	•	He/She/It has + past participle\n
+	•	Negative:\n
+	•	I/You/We/They have not (have not) + past participle\n
+	•	He/She/It has not (has not) + past participle\n
+	•	Question:\n
+	•	Have + I/you/we/they + past participle?\n
+	•	Has + he/she/it + past participle?\n
+/n
+For example:/n/n
+
+	•	Affirmative: “I have seen that movie.”\n
+	•	Negative: “She has not finished her homework yet.”\n
+	•	Question: “Have you ever been to Japan?”\n\n
+
+I hope this provides a clearer explanation! Let me know if you have any more questions.\n\n
+		زمن المضارع التام يستخدم غالبًا في الحالات التالية:
+
+1. *الأفعال أو الأحداث التي حدثت في وقت غير محدد في الماضي:* يعني ذلك أن الوقت الدقيق غير مذكور أو غير مهم. على سبيل المثال:
+   - "لقد زارت باريس." (لا نعرف متى زارت باريس.)
+   - "لقد تناولوا السوشي من قبل." (لا نعرف متى تناولوا السوشي.)
+
+2. *الأفعال أو الأحداث التي بدأت في الماضي وتستمر حتى الآن:* يشير ذلك إلى أن الفعل بدأ في الماضي وما زال ذا صلة حتى الآن. على سبيل المثال:
+   - "لقد عشت في هذه المدينة لمدة خمس سنوات." (انتقلت هنا قبل خمس سنوات، وما زلت أعيش هنا.)
+   - "لقد عمل في الشركة منذ عام 2010." (بدأ العمل هناك في عام 2010، وما زال يعمل هناك.)
+
+3. *الأفعال أو الأحداث التي حدثت للتو:* يستخدم غالبًا مع عبارات زمنية مثل "just"، "already"، أو "recently" للإشارة إلى أن الفعل حدث للتو. على سبيل المثال:
+   - "لقد انتهت للتو من عرضها."
+   - "لقد أكملت واجباتي بالفعل."
+
+يتم تكوين زمن المضارع التام بتصريف الفعل المساعد "to have" (have/has) وإضافة الماضي الثالث للفعل الرئيسي. إليك الأشكال:
+
+- *الإثبات:*
+  - I/You/We/They have + الماضي الثالث
+  - He/She/It has + الماضي الثالث
+
+- *النفي:*
+  - I/You/We/They have not (have not) + الماضي الثالث
+  - He/She/It has not (has not) + الماضي الثالث
+
+- *السؤال:*
+  - Have + I/you/we/they + الماضي الثالث؟
+  - Has + he/she/it + الماضي الثالث؟
+
+على سبيل المثال:
+- الإثبات: "لقد شاهدت هذا الفيلم."
+- النفي: "لم تنهِ بعد واجبها المنزلي."
+- السؤال: "هل سبق لك أن زرت اليابان؟"
+	</string>
+	<string name="grammer_level_b">The past simple tense, also known as the simple past tense,
+		is used to describe actions or events that occurred at a specific time in the past and are now completed. In English grammar,
+		it is formed by adding the suffix (-ed) to regular verbs, while irregular verbs have their own unique past tense forms.\n \n
+
+Here is a breakdown of the formation and usage of the past simple tense:
+\n\n
+Formation:\n\n
+- For regular verbs, add "-ed" to the base form of the verb:\n\n
+  - Example: walk (base form) → walked (past tense)\n\n
+- For irregular verbs, the past tense form varies and must be memorized:\n\n
+  - Example: go (base form) → went (past tense)\n\n
+\n\n
+Usage:\n\n
+1. Completed actions in the past:\n\n
+   - Example: She played the piano yesterday. (The action of playing the piano occurred and finished in the past.)\n\n
+
+2. Past habits or routines:\n\n
+   - Example: He always went for a walk in the morning. (This describes a habitual action in the past.)\n\n
+
+3. Past facts or generalizations:\n\n
+   - Example: Shakespeare wrote many plays. (This states a fact about the past.)\n\n
+
+4. Past states or conditions:\n\n
+   - Example: The weather was sunny last weekend. (This describes a state or condition in the past.)\n\n
+
+It is important to note that the past simple tense does not indicate the duration of an action, only that it occurred and was completed in the past.\n\n
+	الماضي البسيط، المعروف أيضًا بالماضي البسيط، يُستخدم لوصف الأفعال أو الأحداث التي حدثت في وقت معين في الماضي وانتهت الآن. في قواعد اللغة الإنجليزية، يتم تكوينه عن طريق إضافة لاحقة "-ed" إلى الأفعال العادية، في حين أن الأفعال غير العادية لها أشكال ماضية فريدة لها.
+\n\n
+وإليكم شرح لتكوين واستخدام الماضي البسيط:
+\n\n
+التكوين:
+		\n\n
+- للأفعال العادية، أضف "-ed" إلى الشكل الأساسي للفعل:
+		\n\n
+- مثال: المشي (الشكل الأساسي) → مشى (الماضي)
+		\n\n
+- بالنسبة للأفعال الغير العادية، يختلف شكل الماضي، ويجب حفظه:
+		\n\n
+- مثال: الذهاب (الشكل الأساسي) → ذهب (الماضي)
+\n\n
+الاستخدام:
+		\n\n
+1. الأفعال المكتملة في الماضي:
+		\n\n
+- مثال: لعبت هي على البيانو بالأمس. (حدثت وانتهت فعل لعب البيانو في الماضي.)
+\n\n
+2. العادات أو الروتينات في الماضي:
+		\n\n
+- مثال: كان يذهب دائمًا للنزهة في الصباح. (هذا يصف عملًا معتادًا في الماضي.)
+		\n\n
+
+3. الحقائق أو التعميمات في الماضي:
+		\n\n
+- مثال: كتب شكسبير العديد من المسرحيات. (يقدم هذا حقيقة عن الماضي.)
+		\n\n
+
+4. الحالات أو الظروف في الماضي:
+		\n\n
+- مثال: كان الطقس مشمسًا في نهاية الأسبوع الماضي. (يصف هذا حالة أو ظرفًا في الماضي.)
+		\n\n
+
+
+		يجب ملاحظة أن الماضي البسيط لا يشير إلى مدة الفعل، فقط يشير إلى حدوثه واكتماله في الماضي.
+	\n\n
+	The present simple tense is used to describe actions or situations that are habitual, factual,
+		or generally true. It is often used for routines, habits, permanent situations, and general truths. In English grammar,
+		it is formed differently for regular and irregular verbs.\n\n
+
+Here is a breakdown of the formation and usage of the present simple tense:\n\n\n\n
+
+Formation:\n\n
+- For regular verbs, add (-s) or (-es) to the base form of the verb in the third person singular (he, she, it):\n\n
+  - Example: I work (base form) → He works (present simple)\n\n
+- For most irregular verbs, the base form remains the same for all persons:\n\n
+  - Example: I go (base form) → He goes (present simple)\n\n
+\n\n
+Usage:\n\n
+1. Routines and habits:\n\n
+   - Example: She exercises every morning. (This describes a habitual action.)\n\n
+2. General truths or facts:\n\n
+   - Example: The sun rises in the east. (This states a general truth.)\n\n
+3. Permanent situations or states:\n\n
+   - Example: She lives in London. (This describes a permanent situation.)\n\n
+4. Scheduled events or timetables:\n\n
+   - Example: The train departs at 9:00 AM. (This indicates a scheduled event.)\n\n
+\n\n
+It is important to note that the present simple tense does not indicate the action is happening at the moment of speaking; it refers to actions that happen regularly,
+		repeatedly, or are true in general.\n\n
+	المضارع البسيط يستخدم لوصف الأفعال أو الحالات التي هي عادية أو حقائق عامة أو دائمة. وغالباً ما يستخدم للروتينات، والعادات، والحالات الدائمة، والحقائق العامة. في قواعد اللغة الإنجليزية، يتكون بطريقة مختلفة للأفعال العادية وغير العادية.
+\n\n\n\n
+وإليك تفصيل لتكوين واستخدام المضارع البسيط:
+\n\n\n\n
+التكوين:
+		\n\n
+- للأفعال العادية، أضف "-s" أو "-es" إلى الشكل الأساسي للفعل في الشخص الثالث المفرد (he، she، it):
+		\n\n
+- مثال: I work (الشكل الأساسي) → He works (المضارع البسيط)
+		\n\n
+- لمعظم الأفعال غير العادية، يبقى الشكل الأساسي هو نفسه لجميع الأشخاص:
+		\n\n
+- مثال: I go (الشكل الأساسي) → He goes (المضارع البسيط)
+		\n\n
+
+الاستخدام:
+		\n\n
+1. الروتينات والعادات:
+		\n\n
+- مثال: تمارس الرياضة كل صباح. (هذا يصف عمل متكرر.)
+		\n\n
+2. الحقائق العامة أو الحقائق:
+		\n\n
+- مثال: تشرق الشمس في الشرق. (هذا يعبر عن حقيقة عامة.)
+		\n\n
+3. الحالات الدائمة أو الدائمة:
+		\n\n
+- مثال: تعيش في لندن. (هذا يصف حالة دائمة.)
+		\n\n
+4. الأحداث المجدولة أو الجداول الزمنية:
+		\n\n
+- مثال: تغادر القطار في الساعة 9:00 صباحًا. (هذا يشير إلى حدث مجدول.)
+		\n\n
+
+من المهم أن نلاحظ أن المضارع البسيط لا يشير إلى أن الفعل يحدث في لحظة التحدث؛ بل يشير إلى أن الأفعال تحدث بانتظام أو تكرارًا، أو تكون صحيحة بشكل عام.
+	</string>
+	<string name="grammer_level_c">
+		Conditional sentences, often referred to as "if" clauses,
+		are used to express hypothetical situations and their possible outcomes.
+		There are several types of conditional sentences, each with its own structure and usage:\n\n
+\n\n
+1. Zero Conditional:\n\n
+   - Structure: If + present simple, present simple\n\n
+   - Example: If you heat ice, it melts.\n\n
+   - Usage: Used to express general truths or facts.\n\n
+\n\n
+2. First Conditional:\n\n
+   - Structure: If + present simple, will + base form of verb\n\n
+   - Example: If it rains, we will stay indoors.\n\n
+   - Usage: Used to talk about real or possible future situations.\n\n
+\n\n
+3. Second Conditional:\n\n
+   - Structure: If + past simple, would + base form of verb\n\n
+   - Example: If I won the lottery, I would buy a house.\n\n
+   - Usage: Used to talk about hypothetical or unlikely situations in the present or future.\n\n
+\n\n
+4. Third Conditional:\n\n
+   - Structure: If + past perfect, would have + past participle\n\n
+   - Example: If she had studied harder, she would have passed the exam.\n\n
+   - Usage: Used to talk about unreal or hypothetical situations in the past.\n\n
+\n\n
+5. Mixed Conditional:\n\n
+   - Structure: If + past perfect, would + base form of verb (or) If + past simple, would have + past participle\n\n
+   - Example: If he had gone to bed earlier, he would feel better now.\n\n
+   - Usage: Combines elements of the second and third conditionals to express mixed or hypothetical situations.\n\n
+\n\n
+Conditional sentences allow speakers and writers to discuss possibilities,\n\n
+		consequences, and hypothetical scenarios, depending on the likelihood or reality of the situation.\n\n
+		جمل الشرط، المعروفة أيضًا بالجمل الشرطية، تُستخدم للتعبير عن الظروف الافتراضية ونتائجها المحتملة. هناك عدة أنواع من جمل الشرط، كل منها لها بنية واستخدام محدد:
+\n\n
+	1.	الشرط الصفري:
+		\n\n
+	•	البنية: إذا + المضارع البسيط، المضارع البسيط
+		\n\n
+	•	المثال: إذا سخنت الثلج، يذوب.
+		\n\n
+	•	الاستخدام: يُستخدم للتعبير عن الحقائق العامة أو الحقائق.
+		\n\n
+	2.	الشرط الأول:
+		\n\n
+	•	البنية: إذا + المضارع البسيط، سوف + مصدر الفعل
+		\n\n
+	•	المثال: إذا هطلت المطر، سنبقى في الداخل.
+		\n\n
+	•	الاستخدام: يُستخدم للتحدث عن الحالات الحقيقية أو المحتملة في المستقبل.
+		\n\n
+	3.	الشرط الثاني:
+		\n\n
+	•	البنية: إذا + الماضي البسيط، كان سوف + مصدر الفعل
+		\n\n
+	•	المثال: لو فزت في اليانصيب، سأشتري منزلاً.
+		\n\n
+	•	الاستخدام: يُستخدم للتحدث عن الحالات الافتراضية أو غير المحتملة في الحاضر أو المستقبل.
+		\n\n
+	4.	الشرط الثالث:
+		\n\n
+	•	البنية: إذا + الماضي التام، كان سيكون + الفعل في المصدر
+		\n\n
+	•	المثال: لو درست بجد أكثر، لكانت قد اجتازت الامتحان.
+		\n\n
+	•	الاستخدام: يُستخدم للتحدث عن الحالات الغير واقعية أو الافتراضية في الماضي.
+		\n\n
+	5.	الشرط المختلط:
+		\n\n
+	•	البنية: إذا + الماضي التام، كان سيكون + م​⬤
+	</string>
+
+    <array name="ages">
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+
+        <!-- Add more items as needed -->
+    </array>
+</resources>

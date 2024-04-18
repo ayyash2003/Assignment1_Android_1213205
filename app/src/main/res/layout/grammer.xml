@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/grammer"
+    android:background="#ADD8E6"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="360dp"
+                android:orientation="vertical"
+                android:id="@+id/top">
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="fill_parent"
+                    android:layout_height="290dp"
+                    app:srcCompat="@drawable/grammer3" />
+
+                <TextView
+                    style="@style/grammer"/>
+
+
+                <TextView
+                    android:id="@+id/txtTitleG"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_marginStart="165dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginEnd="212dp"
+                    android:layout_gravity="center"
+                    android:text="Level"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                android:id="@+id/txtGrammer"
+                android:layout_width="410dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="18dp"
+                android:layout_marginEnd="130dp"
+                    android:padding="10dp"
+
+                android:text="@string/grammer_level_a"
+                android:textColor="#050505"
+                android:textStyle="bold"
+                />
+            </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

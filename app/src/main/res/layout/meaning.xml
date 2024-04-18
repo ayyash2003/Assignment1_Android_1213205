@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/meaning"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#603737"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="380dp"
+                app:srcCompat="@drawable/meaning" />
+
+            <TextView
+                android:id="@+id/txtlevelM"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Level "
+                android:gravity="center"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtIntroduction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="20dp"
+                android:padding="4dp"
+                android:textColor="#C27A16"
+                android:textStyle="bold"
+                android:text="@string/intrudction_a"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/txtm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_margin="10dp"
+                android:text="Meaning:"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+
+
+            <TextView
+                android:id="@+id/txtM"
+                android:layout_width="385dp"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="@string/meaning_level_c"
+                android:textColor="#F3F3F8"
+                android:textSize="24sp"
+                android:textStyle="italic" />
+
+    </LinearLayout>
+</ScrollView>

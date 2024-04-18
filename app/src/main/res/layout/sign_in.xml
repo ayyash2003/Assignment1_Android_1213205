@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    style="@style/sign_up">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="28dp"
+        style="@style/Title">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="50dp"
+            android:layout_height="70dp"
+            app:srcCompat="@drawable/user"
+            android:layout_marginRight="50dp"
+            android:background="#2E4E4A"/>
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="Ayyash Tutorial"
+            android:textAlignment="center"
+            android:textSize="22sp"
+            android:layout_marginRight="50dp"
+            style="@style/Title"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtFirst"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="First Name"
+            style="@style/sign_up_text"
+            />
+
+        <EditText
+            android:id="@+id/edtFirst"
+
+            style="@style/edit_text_signup"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtLast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Last Name"
+            style="@style/sign_up_text"
+            />
+
+        <EditText
+            android:id="@+id/edtLast"
+            style="@style/edit_text_signup"/>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Age"
+            style="@style/sign_up_text"
+            />
+
+        <Spinner
+            android:id="@+id/spnAge"
+            android:layout_width="160dp"
+            android:layout_height="40dp"
+            android:layout_margin="20dp"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            style="@style/sign_up_text"
+            />
+
+        <EditText
+            android:id="@+id/edtEmail"
+            android:inputType="textEmailAddress"
+            style="@style/edit_text_signup"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtPass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            style="@style/sign_up_text"
+            />
+
+        <EditText
+            android:id="@+id/edtPass"
+
+            android:inputType="textPassword"
+            style="@style/edit_text_signup"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtGender"
+            android:layout_width="wrap_content"
+            android:layout_height="39dp"
+            android:text="Gender"
+            style="@style/sign_up_text"
+            />
+
+        <RadioGroup
+            android:id="@+id/rdbGp1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rdbMale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:layout_margin="5dp"
+                />
+
+            <RadioButton
+                android:id="@+id/rdbFemale"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:layout_margin="5dp"
+                />
+        </RadioGroup>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/txtLevel"
+            android:layout_width="wrap_content"
+            android:layout_height="39dp"
+            android:text="Level"
+            style="@style/sign_up_text"
+            />
+
+        <RadioGroup
+            android:id="@+id/rdbLevel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rdbA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="4dp"
+                android:text="A" />
+
+            <RadioButton
+                android:id="@+id/rdbB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B"
+                android:layout_margin="4dp"
+                />
+
+            <RadioButton
+                android:id="@+id/rdbC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C"
+                android:layout_margin="4dp"
+                />
+        </RadioGroup>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView />
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:text="Sign Up"
+            android:onClick="onClickSignUp"
+            android:textAlignment="center"
+            android:background="@drawable/my_button_bg"
+            android:textColor="@color/white"
+            android:layout_margin="20dp"
+
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/txtMsgSign"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:textColor="#E40E0E"
+            android:textSize="18sp" />
+    </TableRow>
+
+</TableLayout>
